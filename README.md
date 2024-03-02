@@ -6,7 +6,7 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/flaviusmeghesan/)](https://github.com/flaviusmeghesan/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavius-cristian-meghesan-a285971a4/)](hhttps://www.linkedin.com/in/flavius-cristian-meghesan-a285971a4/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flv.meghe@gmail.com)](mailto:flv.meghe@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/flaviusmeghesan)](https://www.instagram.com/flaviusmeghesan)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/flaviusmeghesan)](https://www.instagram.com/flaviusmeghesan)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a **3rd year Student🎓 [@ UTCN](https://ac.utcluj.ro/acasa.html)** pursuing my bachelor's degree in Computer Science & Applied Informatics, with a
@@ -56,10 +56,12 @@ tackle challenging tasks.<br/><br/>
 
 ### 🚀 Quick Stats
 <p align="center">
+Coming soon...</p>
+<!-- <p align="center">
 <img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
-<!-- <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
-</p>
+<img width="340" height="155" align="center" 
+     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> 
+</p> -->
 
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27) -->
