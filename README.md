@@ -21,7 +21,7 @@ tackle challenging tasks.<br/><br/>
 
 ## ⚡️ A Few Things
 
-- 🔭 I’m currently working on my university projects **😃** <img src="https://iconape.com/wp-content/png_logo_vector/utcn-logo.png" width="20"> 
+- 🔭 I’m currently working on my university projects **😃** <img src="https://iconape.com/wp-content/png_logo_vector/utcn-logo.png" width="40"> 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 💻 Software Development and Programming
   - 🚀 Automation and Applied Informatics
