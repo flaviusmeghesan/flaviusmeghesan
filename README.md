@@ -21,7 +21,7 @@ tackle challenging tasks.<br/><br/>
 
 ## ⚡️ A Few Things
 
-- 🔭 I’m currently working on my university projects **😃** <img src="https://iconape.com/wp-content/png_logo_vector/utcn-logo.png" width="40"> 
+- 🔭 I’m currently working on my university projects **😃**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 💻 Software Development and Programming
   - 🚀 Automation and Applied Informatics
@@ -36,9 +36,8 @@ tackle challenging tasks.<br/><br/>
 - 📙 Check out my [Resume](https://github.com/flaviusmeghesan/flaviusmeghesan/blob/main/MeghesanFlaviusCV.pdf)
 
   
-### 🖥️ My DevSetup
-https://img.shields.io/badge/-Linux-grey?logo=linux
-<img src="https://img.shields.io/badge/-Linux-grey&style=flat-square&logo=Linux&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+### 🖥️ Developement Setup
+<img src="https://img.shields.io/badge/-Linux-grey?logo=linuxlogoColor=E2231A"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
 ### ⚙️ Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
