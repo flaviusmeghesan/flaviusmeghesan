@@ -9,7 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/flaviusmeghesan)](https://www.instagram.com/flaviusmeghesan)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **3rd year Student🎓 [@ UTCN](https://ac.utcluj.ro/acasa.html)** pursuing my bachelor's degree in Computer Science & Applied Informatics, with a
+I'm a **4th year Student🎓 [@ UTCN](https://ac.utcluj.ro/acasa.html)** pursuing my bachelor's degree in Computer Science & Applied Informatics, with a
 strong programming background **💻 😃** , keen
 on quality and innovation. Proven ability
 in both solo and team projects, seeking
@@ -21,7 +21,7 @@ tackle challenging tasks.<br/><br/>
 
 ## ⚡️ A Few Things
 
-- 🔭 I’m currently working on my university projects **😃**
+- 🔭 I’m currently working at De'Longhi Group and on my side projects **😃**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 💻 Software Development and Programming
   - 🚀 Automation and Applied Informatics
