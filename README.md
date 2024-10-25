@@ -4,12 +4,12 @@
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/flaviusmeghesan/)](https://github.com/flaviusmeghesan/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavius-cristian-meghesan-a285971a4/)](hhttps://www.linkedin.com/in/flavius-cristian-meghesan-a285971a4/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavius-cristian-meghesan-a285971a4/)](hhttps://www.linkedin.com/in/flaviusmeghesan/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flv.meghe@gmail.com)](mailto:flv.meghe@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/flaviusmeghesan)](https://www.instagram.com/flaviusmeghesan)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **4th year Student🎓 [@ UTCN](https://ac.utcluj.ro/acasa.html)** pursuing my bachelor's degree in Computer Science & Applied Informatics, with a
+I'm a **4th year Student🎓 [@ UTCN](https://ac.utcluj.ro/acasa.html)** pursuing my bachelor's degree in Computer Science & Applied Informatics, specializing in Digital Security with a
 strong programming background **💻 😃** , keen
 on quality and innovation. Proven ability
 in both solo and team projects, seeking
@@ -26,11 +26,9 @@ tackle challenging tasks.<br/><br/>
   - 💻 Software Development and Programming
   - 🚀 Automation and Applied Informatics
   - 🌐 Web Development
-  - 🎮 Game Development
+  - 🎮 Digital Security
   - 🤝 Collaborative Team Projects
   - 🌱 Exploring New Technologies
-  - 🎨 UX/UI Design
-  - 📱 Mobile App Development
 - 📝 I've atttended numerous workshop programming related
 - 👯 Besides my university project, my team and I are working on a full stack application.
 - 📙 Check out my [Resume](https://github.com/flaviusmeghesan/flaviusmeghesan/blob/main/MeghesanFlaviusCV.pdf)
