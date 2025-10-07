@@ -9,7 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/flaviusmeghesan)](https://www.instagram.com/flaviusmeghesan)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **4th year Student🎓 [@ UTCN](https://ac.utcluj.ro/acasa.html)** pursuing my bachelor's degree in Computer Science & Applied Informatics, specializing in Digital Security with a
+I'm a **Master's Student🎓 [@ UTCN](https://ac.utcluj.ro/acasa.html)** graduated in Computer Science & Applied Informatics, specializing Information Technology and Economics with a
 strong programming background **💻 😃** , keen
 on quality and innovation. Proven ability
 in both solo and team projects, seeking
@@ -30,7 +30,6 @@ tackle challenging tasks.<br/><br/>
   - 🤝 Collaborative Team Projects
   - 🌱 Exploring New Technologies
 - 📝 I've atttended numerous workshop programming related
-- 👯 Besides my university project, my team and I are working on a full stack application.
 - 📙 Check out my [Resume](https://github.com/flaviusmeghesan/flaviusmeghesan/blob/main/MeghesanFlaviusCV.pdf)
 
   
